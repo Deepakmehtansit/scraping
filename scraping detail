@@ -1,0 +1,2 @@
+web scraping exam bazzar website for getting the institute basic details(name, address, phone, email etc)
+i used chrome web driver and beautifulsoup package for scraping
